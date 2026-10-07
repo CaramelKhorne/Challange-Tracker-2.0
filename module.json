@@ -1,8 +1,8 @@
 {
   "id": "challenge-tracker",
-  "title": "Challenge Tracker",
+  "title": "Challenge Tracker 2.0",
   "description": "An interactive aid to track successes and failures in challenges à la D&D 4e-inspired skill challenges and Blades in the Dark progress clocks",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "library": "false",
   "compatibility": {
     "minimum": "13.341",
@@ -21,7 +21,7 @@
       {
         "id": "color-picker",
         "compatibility": {
-          "minimum": "1.7"
+          "minimum": "1.8"
         }
       },
       {
@@ -32,11 +32,10 @@
   "esmodules": [
     "./scripts/main/module.mjs"
   ],
-  "scripts": [
-  ],
+  "scripts": [],
   "styles": [
     "styles/challenge-tracker.css"
-  ], 
+  ],
   "languages": [
     {
       "lang": "en",
@@ -44,10 +43,10 @@
       "path": "languages/en.json"
     }
   ],
-  "url": "https://github.com/Larkinabout/fvtt-challenge-tracker",
-  "manifest": "This is auto replaced",
-  "download": "This is auto replaced",
-  "readme": "https://github.com/Larkinabout/fvtt-challenge-tracker#readme",
+  "url": "https://github.com/CaramelKhorne/Challange-Tracker-2.0",
+  "manifest": "https://raw.githubusercontent.com/CaramelKhorne/Challange-Tracker-2.0/fix/foundry-v14-editor/module.json",
+  "download": "https://github.com/CaramelKhorne/Challange-Tracker-2.0/archive/refs/heads/fix/foundry-v14-editor.zip",
+  "readme": "https://github.com/CaramelKhorne/Challange-Tracker-2.0#readme",
   "media": [
     {
       "type": "icon",
