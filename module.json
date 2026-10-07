@@ -21,7 +21,7 @@
       {
         "id": "color-picker",
         "compatibility": {
-          "minimum": "1.7"
+          "minimum": "1.8"
         }
       },
       {
